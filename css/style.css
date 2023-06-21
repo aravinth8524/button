@@ -1,0 +1,118 @@
+
+.head{
+	padding:2em;
+	border:1px solid rgb(237, 245, 239);
+	width:50%;
+	margin: 300px 0 0 300px;
+}
+
+
+
+.btn1{
+	border:none;
+	padding:1em;
+	background-color:rgb(3, 78, 252);
+	border-radius:10px;
+	color:white;
+	text-decoration:none;
+}
+.btn1:hover{
+	background-color:rgb(5, 29, 245);
+	transition:all 0.5s ease;
+}
+.btn2{
+	border:none;
+	padding:1em;
+	background-color:rgb(59, 55, 53);
+	border-radius:10px;
+	color:white;
+	text-decoration:none;
+}
+.btn2:hover{
+	background-color:white;
+	color:black;
+	transition:all 0.5s ease;
+}
+.btn3{
+	border:none;
+	padding:1em;
+	background-color:rgb(7, 235, 68);
+	border-radius:10px;
+	color:white;
+	text-decoration:none;
+}
+.btn3:hover{
+	background-color:black;
+	color:white;
+	transition:all 0.9s ease;
+}
+.btn4{
+	border:none;
+	padding:1em;
+	background-color:rgb(247, 17, 5);
+	border-radius:10px;
+	color:white;
+	text-decoration:none;
+}
+.btn4:hover{
+	background-color:blue;
+	color:white;
+	transition:all 0.9s ease;
+}
+.btn5{
+	border:none;
+	padding:1em;
+	background-color:rgb(247, 211, 5);
+	border-radius:10px;
+	text-decoration:none;
+}
+.btn5:hover{
+	background-color:red;
+	color:white;
+	transition:all 0.9s ease;
+}
+.btn6{
+	border:none;
+	padding:1em;
+	background-color:rgb(5, 247, 239);
+	border-radius:10px;
+	text-decoration:none;
+}
+.btn6:hover{
+	background-color:black;
+	color:white;
+	transition:all 0.9s ease;
+}
+.btn7{
+	border:none;
+	padding:1em;
+	background-color:rgb(237, 245, 239);
+	border-radius:10px;
+	text-decoration:none;
+}
+.btn7:hover{
+	background-color:black;
+	color:white;
+	transition:all 0.9s ease;
+}
+.btn8{
+	border:none;
+	padding:1em;
+	background-color:rgb(5, 5, 5);
+	border-radius:10px;
+	color:white;
+	text-decoration:none;
+}
+.btn8:hover{
+	background-color:white;
+	color:black;
+	transition:all 0.9s ease;
+}
+.btn9{
+	text-decoration:underline;
+	color:blue;
+	border:none;
+	background-color:transparent;
+	cursor:pointer;
+	
+}
